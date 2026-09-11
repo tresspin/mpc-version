@@ -19,8 +19,8 @@
     {
       "name": "EXT_DEP_MANAGER",
       "packageId": "com.google.external-dependency-manager",
-      "version": "1.2.188",
-      "link": "com.google.external-dependency-manager@1.2.188",
+      "version": "1.2.189",
+      "link": "com.google.external-dependency-manager@1.2.189",
       "path": "Assets/ExternalDependencyManager"
     },
     {
