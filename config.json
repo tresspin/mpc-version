@@ -19,29 +19,29 @@
     {
       "name": "EXT_DEP_MANAGER",
       "packageId": "com.google.external-dependency-manager",
-      "version": "1.2.187",
-      "link": "com.google.external-dependency-manager@1.2.187",
+      "version": "1.2.188",
+      "link": "com.google.external-dependency-manager@1.2.188",
       "path": "Assets/ExternalDependencyManager"
     },
     {
       "name": "FIREBASE",
       "packageId": "",
-      "version": "13.12.0",
+      "version": "13.16.0",
       "link": "https://drive.google.com/drive/u/0/folders/13VH3iGs8JXfMTp-hvXNe-fvqo34tYew5",
       "path": null
     },
     {
       "name": "FACEBOOK",
       "packageId": "",
-      "version": "18.0.0",
+      "version": "18.1.0",
       "link": "https://github.com/facebook/facebook-sdk-for-unity/releases",
       "path": null
     },
     {
       "name": "LEVEL_PLAY",
       "packageId": "com.unity.services.levelplay",
-      "version": "9.4.1",
-      "link": "com.unity.services.levelplay@9.4.1",
+      "version": "9.5.1",
+      "link": "com.unity.services.levelplay@9.5.1",
       "path": null
     },
     {
@@ -54,14 +54,14 @@
     {
       "name": "INAPP_PURCHASER",
       "packageId": "com.unity.purchasing",
-      "version": "5.3.1",
-      "link": "com.unity.purchasing@5.3.1",
+      "version": "5.4.3",
+      "link": "com.unity.purchasing@5.4.3",
       "path": null
     },
     {
       "name": "GOOGLE_MOBILE_ADS",
       "packageId": "",
-      "version": "11.2.0",
+      "version": "11.5.0",
       "link": "https://drive.google.com/drive/u/0/folders/1Lr8CUtKAu6DpOrcfJ6xQ9f7Viu67x8BN",
       "path": null
     },
